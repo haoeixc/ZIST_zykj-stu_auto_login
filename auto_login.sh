@@ -1,5 +1,5 @@
 
-USER_ACCOUNT=""    #账号格式:学号@运营商代号
+USER_ACCOUNT=""    #账号格式:学号@运营商代号(中国移动:cmcc中国联通:cucc中国电信:ctcc)
 USER_PASSWORD=""   #密码
 
 curl "http://172.22.5.2:801/eportal/?" \
